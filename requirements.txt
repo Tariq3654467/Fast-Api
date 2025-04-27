@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+scikit-learn        # or tensorflow/torch depending on your model
+numpy
+pydantic
+joblib              # for loading the model
+pandas
